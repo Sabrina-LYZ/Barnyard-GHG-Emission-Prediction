@@ -1,0 +1,5 @@
+# Barnyard-GHG-Emission-Prediction
+Predict CH4 emissions in dairy barnyards using surface and animal feed characteristics
+
+Agriculture is one of the major contributors to GHG emissions, accounting for about 20% of global emissions. Therefore, identifying and quantifying GHG emissions from agriculture is crucial for implementing mitigation strategies. Our project will specifically focus on dairy barnyards and aim to predict GHG emissions from barnyards using descriptive features e.g. ground surface type, soil water content, animal feed consumption, etc.
+We will utilize the dataset from the U.S. Department of Agriculture(USDA) website. The dataset was gathered from an experiment funded by “Climate Change Mitigation and Adaptation in Dairy Production Systems of the Great Lakes Region” project, aka Dairy Coordinated Agricultural Project (Dairy CAP). The experiment built 9 barnyards in Wisconsin state and measured the GHG fluxes, including CO2, CH4, NH3, and N2O, in each barnyard several times per year. The main dataset consisted of several sub-datasets with information about soil samples, heifers feeds, soil runoff, and leachate.
